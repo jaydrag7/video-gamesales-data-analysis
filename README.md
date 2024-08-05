@@ -1,8 +1,7 @@
-# Video Game Sales Data Analysis ![Video Game Controller](assets/controller.png "Video Game Controller")
+# Video Game Sales Data Analysis
 
 This Jupyter Notebook contains data analysis on video game sales from 2018-2023, organized into several sections:
 
-- [Imports and Installations](#imports-and-installations)
 - [Dataset Description](#dataset-description)
 - [Data Exploration](#data-exploration)
 - [Data Preprocessing](#data-preprocessing)
